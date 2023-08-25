@@ -1,0 +1,33 @@
+[
+  [
+    {
+      "op" : "test",
+      "path" : "/speciesShips/human",
+      "inverse" : true
+    },
+    {
+      "op" : "add",
+      "path" : "/speciesShips/human",
+      "value" : {}
+    }
+  ],
+  [
+    {
+      "op" : "replace",
+      "path" : "/speciesShips/human",
+      "value" : [
+        "/ships/modkin/modkinT0.structure",
+        "/ships/modkin/modkinT1.structure",
+        "/ships/modkin/modkinT2.structure",
+        "/ships/modkin/modkinT3.structure",
+        "/ships/modkin/modkinT3.structure",
+        "/ships/modkin/modkinT3.structure",
+        "/ships/modkin/modkinT3.structure",
+        "/ships/modkin/modkinT3.structure",
+        "/ships/modkin/modkinT3.structure",
+        "/ships/modkin/modkinT3.structure",
+        "/ships/modkin/modkinT3.structure"
+      ]
+    }
+  ]
+]

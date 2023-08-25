@@ -1,0 +1,12 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "[b]Modkin ship for Humans[/b]\n\nChanges the Human ship to the Modkin ship\n\nWill not take effect on established characters unless you upgrade your ship. It is advised to back up your save and remove all items in your shop before upgrading.\n\nRequires\nThe Modder's Best Friend\n\nIf you have any suggestions, comments or critiques I would love to hear from you.\n\nSteam Profile\nhttp://steamcommunity.com/id/sx-skittles/\n\nChucklefish Games Profile\nhttp://community.playstarbound.com/index.php?members/drpvtskittles.96422/\n\nNexusmods Profile\nhttp://www.nexusmods.com/starbound/users/6177151/",
+  "friendlyName" : "Modkin ship for Humans",
+  "link" : "",
+  "name" : "Modkin ship for Humans",
+  "path" : ".",
+  "requires" : ["The Modders Best Friend"],
+  "steamContentId" : "",
+  "tags" : "Ships",
+  "version" : "0.1"
+}
